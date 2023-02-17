@@ -1,53 +1,68 @@
 ,actor
-0,LockBit 2.0
+0,LockBit 3.0
 1,Conti
 2,Pysa (Mespinoza)
 3,REvil Sodinokibi
 4,MAZE
-5,Egregor
-6,DoppelPaymer
-7,Avaddon
-8,NetWalker
-9,HiveLeaks
-10,Alphav (BlackCat)
-11,CL0P
-12,Everest
-13,DarkSide
-14,Grief
+5,Alphav (BlackCat)
+6,HiveLeaks
+7,Egregor
+8,DoppelPaymer
+9,Avaddon
+10,BlackBasta
+11,Vice Society
+12,NetWalker
+13,CL0P
+14,Everest
 15,LV
-16,Vice Society
-17,Marketo
-18,Dark Leak Market
-19,Cuba
-20,Ragnar Locker
-21,WannaCry
-22,BlackBasta
-23,Prometheus
-24,Ragnarok
+16,DarkSide
+17,Grief
+18,Ragnar Locker
+19,BianLian
+20,Royal
+21,Marketo
+22,Cuba
+23,Karakurt
+24,BlackByte
 25,Snatch
-26,Lorenz
-27,BABUK LOCKER
-28,RansomEXX
-29,Nefilim
-30,Suncrypt
-31,BlackMatter
-32,Spook
-33,Payload.bin
-34,CoomingProject
-35,BlackByte
-36,XING LOCKER
-37,Avos Locker
-38,Mount Locker
-39,Astro Team
-40,Sabbath
-41,SynACK
-42,LockBit
-43,AKO
-44,Team Snatch
-45,Sekhmet
-46,Pay2Key
-47,RansomHouse
-48,Noname
-49,N3tw0rm
-50,Ranzy Locker
-51,NEMTY
+26,Dark Leak Market
+27,Lorenz
+28,Quantum
+29,WannaCry
+30,RansomEXX
+31,Prometheus
+32,Ragnarok
+33,Suncrypt
+34,BABUK LOCKER
+35,Nefilim
+36,BlackMatter
+37,Spook
+38,Payload.bin
+39,Play News
+40,CoomingProject
+41,RansomHouse
+42,XING LOCKER
+43,Avos Locker
+44,Medusa Locker
+45,Mount Locker
+46,Astro Team
+47,Sabbath
+48,VSOP NEWS
+49,SynACK
+50,Sparta
+51,Mallox
+52,AKO
+53,LockBit
+54,Donut Leaks
+55,Qilin
+56,Daixin Team
+57,Pay2Key
+58,Sekhmet
+59,Team Snatch
+60,Red Alert
+61,Relic
+62,N3tw0rm
+63,Noname
+64,Omega Lock
+65,Ranzy Locker
+66,NEMTY
